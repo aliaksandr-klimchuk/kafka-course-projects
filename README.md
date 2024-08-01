@@ -13,6 +13,6 @@ written to learn and understand the Kafka advanced features.
 - Programming languages: Java;
 - Frameworks: Spring Boot; 
 - JMS: Apache Kafka;
-- IDE: Visual Studio Code;
+- IDE: Intellij IDEA;
 - Tools: Postman, Git, HTTPs, XML, YAML, JSON;
 - Others: GitHub, ESLint.
